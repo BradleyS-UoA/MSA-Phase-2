@@ -1,3 +1,6 @@
+Notebook and checkpoint done on Kaggle
+
+
 # Part 3 - Deep Learning
 
 > "Deep learning is a powerful tool for understanding the world and solving problems. It has the potential to transform many industries and improve people's lives." — **Andrew Ng**
